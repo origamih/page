@@ -247,7 +247,9 @@ pre code.hljs {
 			img {
 				max-height: 15em;
 				width: auto;
-
+			}
+			h1 {
+				margin-bottom: 0;
 			}
 		}
 	}
@@ -266,6 +268,14 @@ pre code.hljs {
 		.post-header-container {
 			.scrim {
 				padding: 2em 1em 1em 1em;
+			}
+			.post-header {
+				.title {
+					margin-bottom: 0;
+				}
+				.info {
+					margin-bottom: 0;
+				}
 			}
 		}
 		.post-meta {
