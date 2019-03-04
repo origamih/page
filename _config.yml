@@ -9,8 +9,8 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: HuyTran
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
+title: Phu Huy Blog
+subtitle: "My random stuff, mostly about JS stack"
 email: origamih@gmail.com
 name: Huy Tran
 description: >
@@ -20,7 +20,7 @@ description: >
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://phuhuy.com" # the base hostname & protocol for your site
-cover: "/assets/header_image.jpg"
+cover: "/assets/band.png"
 logo: "/assets/logo.png"
 
 # Build settings
